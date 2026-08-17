@@ -7,9 +7,16 @@ Paste a link, the app finds the media on that page, downloads it, and plays it
 back with no network connection. No tabs, no address bar, no search, no shields.
 Just a library.
 
-```
-Library  ·  Now Playing  ·  Downloads  ·  Settings
-```
+| <img src="Docs/screenshots/library.png" width="250" alt="Library"> | <img src="Docs/screenshots/now-playing.png" width="250" alt="Now Playing"> | <img src="Docs/screenshots/add-media.png" width="250" alt="Add Media"> |
+|:--:|:--:|:--:|
+| **Library** — playlists, search, and the mini player docked above the tab bar | **Now Playing** — transport, speed, repeat, and a background tinted from the video | **Add Media** — paste a page address and the media on it is found |
+
+| <img src="Docs/screenshots/queue.png" width="250" alt="Playing Next"> | <img src="Docs/screenshots/downloads.png" width="250" alt="Downloads"> | <img src="Docs/screenshots/settings.png" width="250" alt="Settings"> |
+|:--:|:--:|:--:|
+| **Playing Next** — reorder, play-next, add-to-queue | **Downloads** — storage accounting and per-item sizes | **Settings** — playback behaviour and download policy |
+
+<sub>Screenshots taken on an iPhone 17 simulator. The library holds Blender
+Foundation open movies, added by pasting their YouTube addresses.</sub>
 
 ---
 
